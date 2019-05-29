@@ -1,0 +1,57 @@
+h1 {
+    color: #FCA205; 
+    font-family: 'Gugi', cursive;
+    font-size: 50px;
+}
+body {
+    background-image:url('https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963945_1280.jpg');
+    text-align: center;
+    position: relative;
+  }
+
+
+.구역1 {
+    position: static;
+    left: 300px;
+    text-align: center;
+}
+.about {
+    color: orange;
+    font-family: 'Gugi', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.인사말 {
+    color: #d8a95e;
+    font-family: 'Gugi', cursive;
+    font-size: 27px;
+    text-align: center;
+}
+
+.aboutarea {
+    text-align: center;
+}
+
+.돌아가기 {
+    font-family: 'Gugi', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Gugi', cursive;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.결과값 {
+    font-family: 'Gugi', cursive;
+    font-size: 20px;
+    color: rgb(243, 110, 33);
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/04/12/17/white-1714170_1280.jpg);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
